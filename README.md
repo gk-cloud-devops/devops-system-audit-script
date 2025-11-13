@@ -28,11 +28,11 @@ A perfect hands-on project for beginners building Linux & DevOps fundamentals �
 
 ### The script runs essential Linux commands:
 
-uptime → system uptime
+ 1. uptime → system uptime
 
-who → currently logged-in users
+ 2. who → currently logged-in users
 
-df -h → disk usage
+ 3. df -h → disk usage
 
 ### It saves the audit results in a log file under:
 ```
@@ -103,11 +103,11 @@ Devops_Journey_Linux_Fundamentals/
 
 ### In production environments, system audit scripts like this are often automated via cron jobs to:
 
-Monitor uptime and disk usage
+ 1. Monitor uptime and disk usage
 
-Track active sessions
+ 2. Track active sessions
 
-Alert admins about low disk space
+ 3. Alert admins about low disk space
 
 This forms the foundation for infrastructure monitoring and maintenance automation.
 
